@@ -1,0 +1,12 @@
+{
+  "name": "vtb-hack",
+  "displayName": "vtb-hack",
+  "expo": {
+    "name": "vtb-hack",
+    "slug": "vtb-hack",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
