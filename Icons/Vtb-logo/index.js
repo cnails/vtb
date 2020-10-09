@@ -1,2 +1,2 @@
-import { VtbLogo } from "VtbLogo";
+import VtbLogo from "./VtbLogo";
 export default VtbLogo;
